@@ -1,0 +1,9 @@
+{
+    "custom/emacs-org-clock": {
+        "exec": "info-emacs-org-clock.py",
+        "return-type": "json",
+        "restart-interval": 60,
+        "format": "{}",
+        "tooltip": false
+    }
+}

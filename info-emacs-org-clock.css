@@ -1,0 +1,9 @@
+#custom-emacs-org-clock {}
+
+#custom-emacs-org-clock.clockedin {
+    color: #FFFF00;
+}
+
+#custom-emacs-org-clock.clockedout {
+    color: #808080;
+}
